@@ -1,0 +1,62 @@
+[
+    {
+        "email": "luiza.schmitt@komcorp.com.br",
+        "chave_api": "ce3993e0-5b0c-4ec1-becf-66324a381a31-59c1bc46-4133-4eb5-92fc-279be0431cab",
+        "status": "inactive"
+    },
+    {
+        "email": "tays",
+        "chave_api": "0c45b953-9e67-42dc-b09f-7289069f41cd-40249cfe-2fc8-4b12-a392-921107b98f1c",
+        "status": "inactive"
+    },
+    {
+        "email": "b1",
+        "chave_api": "0c45b953-9e67-42dc-b09f-7289069f41cd-40249cfe-2fc8-4b12-a392-921107b98f1c",
+        "status": "inactive"
+    },
+    {
+        "email": "luiz.conceicao@komcorp.com.br",
+        "chave_api": "266896e3-c504-4c95-bfe4-67a4971e2658-fe9c4902-5f1a-4df4-a6c0-92bfb1d8b731",
+        "status": "inactive"
+    },
+    {
+        "email": "pedro.neto@komcorp.com.br",
+        "chave_api": "9efbfbd9-bbbd-4948-9469-790c7f16de36-d29e0ec0-f6a6-4685-af09-7abe2b8baa1a",
+        "status": "inactive"
+    },
+    {
+        "email": "cargninp@gmail.com",
+        "chave_api": "e2780608-fdab-453f-bc95-e8fd0d1c9163-65a1430c-3269-47d8-b706-827734b74dc3",
+        "status": "inactive"
+    },
+    {
+        "email": "comercial@kombusiness.com.br",
+        "chave_api": "3f9481a7-f75b-427f-8d80-0f8b6a2fdb48-7c11b9d2-7092-475b-ae6a-3f333b186354",
+        "status": "active"
+    },
+    {
+        "email": "bruno.aguiar@komcorp.com.br",
+        "chave_api": "769dc353-a667-4988-a629-de88b7d7c6e3-57c6fd99-945f-40b5-bc5d-753c875bb990",
+        "status": "active"
+    },
+    {
+        "email": "alex.rio@komcorp.com.br",
+        "chave_api": "aca5555d-dbdc-4f9a-be4b-43063f68ac72-29aa0945-1d34-4920-a4f1-2501b0d1f6f0",
+        "status": "active"
+    },
+    {
+        "email": "marketing@komcorp.com.br",
+        "chave_api": "446425aa-e07e-4909-bcc6-e9bc2d6ef82c-08bb5598-bd6e-47e8-8095-723e8eaf2e20",
+        "status": "active"
+    },
+    {
+        "email": "walmir.souza@kombusiness.com.br",
+        "chave_api": "81a1bbbe-9921-46df-a76a-1d2619a17313-7c88551b-ca18-4050-98f3-752d7964af13",
+        "status": "active"
+    },
+    {
+        "email": "walmirjoses@gmail.com",
+        "chave_api": "fb0b5d02-3be7-432c-b3b2-0b645cc2b521-b0560ed6-8a85-41fd-b545-b4b1344f4115",
+        "status": "active"
+    }
+]
